@@ -1,0 +1,15 @@
+C:\Users\Юлия\source\repos\MyCourseWork\bin\Debug\MyCourseWork.exe.config
+C:\Users\Юлия\source\repos\MyCourseWork\bin\Debug\MyCourseWork.exe
+C:\Users\Юлия\source\repos\MyCourseWork\bin\Debug\MyCourseWork.pdb
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork.csprojAssemblyReference.cache
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MainWindow.g.cs
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\App.g.cs
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork_MarkupCompile.cache
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork_MarkupCompile.lref
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MainWindow.baml
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork.g.resources
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork.Properties.Resources.resources
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork.csproj.GenerateResource.cache
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork.exe
+C:\Users\Юлия\source\repos\MyCourseWork\obj\Debug\MyCourseWork.pdb
